@@ -1,6 +1,6 @@
-Rest Asssured Flip Automation By Jonathan Hindharta
-This is a project to fulfill Test 2: API Automation Test (Assignment for Sr. Automation QA Candidate)
-https://github.com/jonathanhindharta/RestAssuredFlipAutomation
+Rest Asssured API Automation By Jonathan Hindharta
+This is a project contains example of API Automation using Rest Assured
+https://github.com/jonathanhindharta/RestAssuredAPIAutomation
 
 Prerequisites Software to run this project :
 1. Java JDK
